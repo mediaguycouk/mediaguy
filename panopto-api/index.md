@@ -21,7 +21,7 @@ Mediaguy.co.uk’s Panopto API code samples. If not, see <http://www.gnu.org/lic
 has failed to migrate as I've had to convert from html to markdown manually*
 
 
-001: Connecting to the server
+[001: Connecting to the server](/panopto-api/panopto-api-001-connecting-to-the-server/)
 
 002: Adding all web services
 

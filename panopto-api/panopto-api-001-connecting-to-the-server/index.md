@@ -1,3 +1,5 @@
+![Back to the index](../)
+
 In this first example we’re going to connect to the Panopto server using a username and password.
 
 Firstly you will need to connect to your Panopto server and add a new user. In this example I used the username “api” and the password “s2ezupajePhasaP5”
@@ -144,3 +146,6 @@ namespace ConsolePanoptoAPI
     }
 }
 ```
+![Next: Adding all web services](../panopto-api-002-adding-all-web-services)
+
+![Back to the index](../)

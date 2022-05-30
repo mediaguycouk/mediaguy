@@ -1,3 +1,5 @@
+![Back to the index](../)
+
 We’ll now add all the Panopto service references. In a real integration you would only add the services you actually need.
 
 Using the application made in 001 add a new service reference
@@ -75,3 +77,7 @@ namespace ConsolePanoptoAPI
     }
 }
 ```
+
+![Next: Security](../panopto-api-003-security)
+
+![Back to the index](../)

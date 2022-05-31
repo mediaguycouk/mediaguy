@@ -21,19 +21,19 @@ Mediaguy.co.uk’s Panopto API code samples. If not, see <http://www.gnu.org/lic
 has failed to migrate as I've had to convert from html to markdown manually*
 
 
-[001: Connecting to the server](/panopto-api/panopto-api-001-connecting-to-the-server/)
+[001: Connecting to the server](panopto-api-001-connecting-to-the-server/)
 
-002: Adding all web services
+[002: Adding all web services](panopto-api-002-adding-all-web-services/)
 
-003: Security
+[003: Security](panopto-api-003-security/)
 
-004: Authenticating with an identity provider
+[004: Authenticating with an identity provider](panopto-api-004-authenticating-with-an-identity-provider/)
 
  
 
-100: Starting code – The upcoming pages will need you to create a new console application with the following code
+[100: Starting code – The upcoming pages will need you to create a new console application with the following code](/panopto-api-100-starting-code)
 
-101: Getting folders
+[101: Getting folders](panopto-api-101-getting-folders)
 
 102: Searching for folders and getting IDs from folder names
 
